@@ -4,7 +4,8 @@ Windows XP support has ended by Microsoft corporation
 including automatic updates that help protect your OS
 This means that PCs running Windows XP will not be secure and will still be at risk for infection
 If you continue to use Windows XP now that support has ended, your computer will still work but it might become more vulnerable to security risks and viruses
-You need to find and use services with safe software to vendors alternative continuously endorsement provide updates
+You need to find and use services and with software of support regarding kernel components
+Start using OEM or vendor's continuously kernel endorsement provide updates
 To stay protected now that support has ended, you have options
 Get protect for anew
 
