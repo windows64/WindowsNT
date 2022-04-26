@@ -6,7 +6,7 @@ This means that PCs running Windows XP will not be secure and will still be at r
 If you continue to use Windows XP now that support has ended, your computer will still work but it might become more vulnerable to security risks and viruses
 You need to find and use software vendors with continuously endorsement provide updates
 To stay protected now that support has ended, you have options
-Get protect
+Get protect for anew
 
 Windows Xp
 
